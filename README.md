@@ -1,4 +1,4 @@
-# Site-Poema
+# Site-Poema-Versos-Intimos
  Site para hospedar um poema em um layout responsivo e estético.
  Criado por Bruno Tolentino Basso.
  Poema de Autoria de Augusto dos Anjos.
